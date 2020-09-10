@@ -1,6 +1,8 @@
-# Employee Directory
+# React Employee Directory
 
 https://radiant-island-45826.herokuapp.com/
+
+![Screenshot of employee directory](img/employeedir.png)
 
 ## Description
 
@@ -8,6 +10,10 @@ The purpose of this project was to create an employee directory using React. Use
 
 ## User Story
 
-AS a user, I want to search the employee directory
-I WANT to enter an employees's information
+AS A user, I want to search the employee directory\
+I WANT to enter an employees's information\
 SO THAT I can find an employee
+
+## License
+
+Distributed under the MIT license.
